@@ -1,1 +1,1 @@
-# english_app
+# This is application for learning english
